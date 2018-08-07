@@ -1,6 +1,4 @@
 # catch-of-the-day
-<br>
-This README would normally document whatever steps are necessary to get your application up and running.
 
 ### What is this repository for? 
 
@@ -8,11 +6,11 @@ Catch of the Day - A React application from Wes Bos tutorial
 
 ### How do I get set up? 
 
-After pulling, run npm start in terminal
+After downloading, run `npm install` in terminal so it installs all the required modules and dependencies.
 
-Can also be viewed at
+Then run `npm start` to run the app in the development mode.
 
-https://gvdavidtran.github.io/catch-of-the-day/
+Open http://localhost:3000 to view it in the browser.
 
 ### Who do I talk to? 
 
